@@ -1,5 +1,16 @@
-# 💫 About Me:
-# Hi 👋, I'm Manya!<br><br>🎓 I'm a 2nd-year B.Tech Computer Science student specializing in Cyber Security.<br><br>🔐 I'm interested in Cyber Security, Ethical Hacking, and exploring how technology can be used to solve real-world problems.<br><br>🌱 Currently learning C, Java, Python, Data Structures & Algorithms, Linux, and Cyber Security concepts.<br><br>💻 I enjoy building projects, solving coding problems, participating in hackathons, and continuously improving my technical skills.<br><br>🎨 Apart from technology, I enjoy drawing, painting, dancing & playing chess.<br><br>🚀 My goal is to keep learning, build meaningful projects, and grow as a Cyber Security professional.<br>
+### Hi 👋, I'm Manya!
+
+🎓 I'm a 2nd-year B.Tech Computer Science student specializing in Cyber Security.
+
+🔐 I'm interested in Cyber Security, Ethical Hacking, and exploring how technology can be used to solve real-world problems.
+
+🌱 Currently learning C, Java, Python, Data Structures & Algorithms, Linux, and Cyber Security concepts.
+
+💻 I enjoy building projects, solving coding problems, participating in hackathons, and continuously improving my technical skills.
+
+🎨 Apart from technology, I enjoy drawing, painting, and dancing.
+
+🚀 My goal is to keep learning, build meaningful projects, and grow as a Cyber Security professional.
 
 
 ## 🌐 Socials:
